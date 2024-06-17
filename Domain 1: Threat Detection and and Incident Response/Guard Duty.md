@@ -15,4 +15,5 @@
 - Can Setup **EventBridge** rules to be notified in case of findings
 - EventBridge rules can target AWS Lambda or SNS
 - Can protect against CryptoCurrency attacks (has a dedicated finding for it)
+<img width="657" alt="Guard Duty" src="https://github.com/JordanSennett/AWS-Security-Specialty/assets/15804669/5682f358-ff05-42a3-9c93-40b15f6bba87">
 
