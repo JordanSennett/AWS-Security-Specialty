@@ -29,3 +29,4 @@
   - Manage Findings, suppression rules, trusted IP list, threat list
 - In an AWS Organization, you can specify a member account as the Organizations delegated administrator for GuardDuty
   
+<img width="623" alt="GD Multi accnt strategy" src="https://github.com/JordanSennett/AWS-Security-Specialty/assets/15804669/7dd1f469-cc39-43cf-a2f7-bd78dff66a03">
