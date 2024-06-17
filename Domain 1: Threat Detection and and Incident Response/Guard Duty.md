@@ -17,3 +17,15 @@
 - Can protect against CryptoCurrency attacks (has a dedicated finding for it)
 <img width="657" alt="Guard Duty" src="https://github.com/JordanSennett/AWS-Security-Specialty/assets/15804669/5682f358-ff05-42a3-9c93-40b15f6bba87">
 
+**Amazon GuardDuty – Multi-Account Strategy**
+
+- You can manage multiple accounts in GuardDuty
+- Associate the member accounts with the Admin account
+  - Through an AWS Organization
+  - Sending invitation through GuardDuty
+- Administrator account can:
+  - Add and remove member accounts
+  - Manage GuardDuty within the associated member accounts
+  - Manage Findings, suppression rules, trusted IP list, threat list
+- In an AWS Organization, you can specify a member account as the Organizations delegated administrator for GuardDuty
+  
